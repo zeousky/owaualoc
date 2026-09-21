@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+data/
+__pycache__/
+*.pyc
+*.pyo
+models/*.gguf
+models/*.partial
+vendor/
+dist/
+.DS_Store
