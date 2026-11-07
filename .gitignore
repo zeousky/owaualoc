@@ -11,3 +11,12 @@ models/*.partial
 vendor/
 dist/
 .DS_Store
+!.env.sample
+node_modules/
+*.py[cod]
+*.log
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+backups/
